@@ -13,7 +13,7 @@
 ###
 
 <div align="center">
-  <img src="https://profile-counter.glitch.me/SwapnanilDatta/count.svg?"  />
+  <img src="https://wallpapers.com/goku"  />
 </div>
 
 ###
